@@ -3,9 +3,11 @@
   "_type": "page.start",
   "heading": "Component - Email",
   "steps": [
-    "page.email",
-    "page.check-answers",
-    "page.confirmation"
+    "page.email-first",
+    "page.email-second",
+    "page.email-third",
+    "page.email-summary",
+    "page.email-confirmation"
   ],
   "url": "/"
 }
